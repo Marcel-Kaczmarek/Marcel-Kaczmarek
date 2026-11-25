@@ -23,7 +23,7 @@ and robust test automation frameworks.
   <tr>
     <td width="50%" valign="top">
       <h3>ERPNext QA Automation</h3>
-      <a href="https://github.com/Marcel-Kaczmarek/erpnext-qa-portfolio">
+      <a href="https://github.com/Marcel-Kaczmarek/Marcel-Kaczmarek/blob/main/ERPNext%20QA%20Automation%20Showcase.png">
         <img src="./assets/erpnext-overview.png" width="100%" alt="ERPNext QA Automation Overview">
       </a>
       <p>
