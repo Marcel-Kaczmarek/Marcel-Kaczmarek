@@ -38,7 +38,7 @@ and robust test automation frameworks.
     <td width="50%" valign="top">
       <h3>Order Management API Testing</h3>
       <a href="https://github.com/Marcel-Kaczmarek/order-management-api-testing">
-        <img src="./assets/order-management-overview.png" width="100%" alt="Order Management API Testing Overview">
+        <img src="https://raw.githubusercontent.com/Marcel-Kaczmarek/Marcel-Kaczmarek/main/Order%20Management%20API%20Testing%20Dashboard.png" width="100%" alt="Order Management API Testing Overview">
       </a>
       <p>
         API and integration testing framework covering
