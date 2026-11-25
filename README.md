@@ -16,12 +16,41 @@ and robust test automation frameworks.
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
 
-### 📂 Featured Projects
 
-| Project | Description |
-|---|---|
-| [ERPNext QA Automation](https://github.com/Marcel-Kaczmarek/erpnext-qa-portfolio) | Enterprise UI and API test automation |
-| [Order Management API Testing](https://github.com/Marcel-Kaczmarek/order-management-api-testing) | API, integration, security and performance testing |
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ERPNext QA Automation</h3>
+      <a href="https://github.com/Marcel-Kaczmarek/erpnext-qa-portfolio">
+        <img src="./assets/erpnext-overview.png" width="100%" alt="ERPNext QA Automation Overview">
+      </a>
+      <p>
+        Enterprise UI and API test automation framework
+        covering critical ERP business workflows.
+      </p>
+      <p><b>Technologies:</b> Playwright, TypeScript, GitHub Actions</p>
+      <a href="https://github.com/Marcel-Kaczmarek/erpnext-qa-portfolio">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Order Management API Testing</h3>
+      <a href="https://github.com/Marcel-Kaczmarek/order-management-api-testing">
+        <img src="./assets/order-management-overview.png" width="100%" alt="Order Management API Testing Overview">
+      </a>
+      <p>
+        API and integration testing framework covering
+        authentication, security and performance testing.
+      </p>
+      <p><b>Technologies:</b> Playwright, NestJS, Postman, k6</p>
+      <a href="https://github.com/Marcel-Kaczmarek/order-management-api-testing">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 📫 Connect with me
 
